@@ -1,0 +1,10 @@
+/Users/thdtjdals__/Desktop/프로젝트/파이썬/Python_Study/C#/연습/bin/Debug/net472/HelloDotNetFramework.exe.config
+/Users/thdtjdals__/Desktop/프로젝트/파이썬/Python_Study/C#/연습/bin/Debug/net472/HelloDotNetFramework.exe
+/Users/thdtjdals__/Desktop/프로젝트/파이썬/Python_Study/C#/연습/bin/Debug/net472/HelloDotNetFramework.pdb
+/Users/thdtjdals__/Desktop/프로젝트/파이썬/Python_Study/C#/연습/obj/Debug/net472/HelloDotNetFramework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thdtjdals__/Desktop/프로젝트/파이썬/Python_Study/C#/연습/obj/Debug/net472/HelloDotNetFramework.AssemblyInfoInputs.cache
+/Users/thdtjdals__/Desktop/프로젝트/파이썬/Python_Study/C#/연습/obj/Debug/net472/HelloDotNetFramework.AssemblyInfo.cs
+/Users/thdtjdals__/Desktop/프로젝트/파이썬/Python_Study/C#/연습/obj/Debug/net472/HelloDotNetFramework.csproj.CoreCompileInputs.cache
+/Users/thdtjdals__/Desktop/프로젝트/파이썬/Python_Study/C#/연습/obj/Debug/net472/HelloDotNetFramework.sourcelink.json
+/Users/thdtjdals__/Desktop/프로젝트/파이썬/Python_Study/C#/연습/obj/Debug/net472/HelloDotNetFramework.exe
+/Users/thdtjdals__/Desktop/프로젝트/파이썬/Python_Study/C#/연습/obj/Debug/net472/HelloDotNetFramework.pdb

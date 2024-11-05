@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FNQAOP7CP9M=",
+  "success": true,
+  "projectFilePath": "/Users/thdtjdals__/Desktop/프로젝트/DotNET_Framework/연습/HelloDotNetFramework.csproj",
+  "expectedPackageFiles": [
+    "/Users/thdtjdals__/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.3/microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "/Users/thdtjdals__/.nuget/packages/microsoft.netframework.referenceassemblies.net472/1.0.3/microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

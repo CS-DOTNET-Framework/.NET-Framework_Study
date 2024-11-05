@@ -1,0 +1,15 @@
+/Users/thdtjdals__/Desktop/프로젝트/파이썬/Python_Study/C#/간단한 CRUD/bin/Debug/net8.0/간단한 CRUD
+/Users/thdtjdals__/Desktop/프로젝트/파이썬/Python_Study/C#/간단한 CRUD/bin/Debug/net8.0/간단한 CRUD.deps.json
+/Users/thdtjdals__/Desktop/프로젝트/파이썬/Python_Study/C#/간단한 CRUD/bin/Debug/net8.0/간단한 CRUD.runtimeconfig.json
+/Users/thdtjdals__/Desktop/프로젝트/파이썬/Python_Study/C#/간단한 CRUD/bin/Debug/net8.0/간단한 CRUD.dll
+/Users/thdtjdals__/Desktop/프로젝트/파이썬/Python_Study/C#/간단한 CRUD/bin/Debug/net8.0/간단한 CRUD.pdb
+/Users/thdtjdals__/Desktop/프로젝트/파이썬/Python_Study/C#/간단한 CRUD/obj/Debug/net8.0/간단한 CRUD.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thdtjdals__/Desktop/프로젝트/파이썬/Python_Study/C#/간단한 CRUD/obj/Debug/net8.0/간단한 CRUD.AssemblyInfoInputs.cache
+/Users/thdtjdals__/Desktop/프로젝트/파이썬/Python_Study/C#/간단한 CRUD/obj/Debug/net8.0/간단한 CRUD.AssemblyInfo.cs
+/Users/thdtjdals__/Desktop/프로젝트/파이썬/Python_Study/C#/간단한 CRUD/obj/Debug/net8.0/간단한 CRUD.csproj.CoreCompileInputs.cache
+/Users/thdtjdals__/Desktop/프로젝트/파이썬/Python_Study/C#/간단한 CRUD/obj/Debug/net8.0/간단한 CRUD.sourcelink.json
+/Users/thdtjdals__/Desktop/프로젝트/파이썬/Python_Study/C#/간단한 CRUD/obj/Debug/net8.0/간단한 CRUD.dll
+/Users/thdtjdals__/Desktop/프로젝트/파이썬/Python_Study/C#/간단한 CRUD/obj/Debug/net8.0/refint/간단한 CRUD.dll
+/Users/thdtjdals__/Desktop/프로젝트/파이썬/Python_Study/C#/간단한 CRUD/obj/Debug/net8.0/간단한 CRUD.pdb
+/Users/thdtjdals__/Desktop/프로젝트/파이썬/Python_Study/C#/간단한 CRUD/obj/Debug/net8.0/간단한 CRUD.genruntimeconfig.cache
+/Users/thdtjdals__/Desktop/프로젝트/파이썬/Python_Study/C#/간단한 CRUD/obj/Debug/net8.0/ref/간단한 CRUD.dll
