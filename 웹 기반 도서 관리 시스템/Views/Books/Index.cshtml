@@ -1,0 +1,35 @@
+@model IEnumerable<Book>
+
+<h2>Books</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Category</th>
+            <th>Published Year</th>
+            <th>Availability</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model)
+        {
+            <tr>
+                <td>@book.Title</td>
+                <td>@book.Author</td>
+                <td>@book.Category</td>
+                <td>@book.PublishedYear</td>
+                <td>@(book.IsAvailable ? "Available" : "Loaned Out")</td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = book.BookId }) |
+                    @Html.ActionLink("Details", "Details", new { id = book.BookId }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = book.BookId })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@Html.ActionLink("Create New Book", "Create")
